@@ -2,6 +2,8 @@
 
 ![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)
 
+Live version: https://gabrieljgb.github.io/single-price-grid/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
