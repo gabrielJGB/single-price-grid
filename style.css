@@ -9,10 +9,12 @@ body{
   h1{
       color:#2bb3b1;
       margin-bottom: 1.5rem;
+      font-size: 1.7rem;
   }
   h2{
       color:#bfdf32;
       margin-bottom: 1rem;
+      font-size: 1.5rem;
   }
 
   .text{
